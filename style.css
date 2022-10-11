@@ -1,0 +1,27 @@
+body {
+    background: #b9b9b9ce
+}
+
+#benner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#banda {
+    font-size: 20px
+}
+
+#biografia {
+    font-size: 20px
+}
+
+em strong {
+    color: red
+}
